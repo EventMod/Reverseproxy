@@ -15,4 +15,4 @@ services:
 networks:
   default:
     external:
-      name: eventmod
+      name: eventmod-network
